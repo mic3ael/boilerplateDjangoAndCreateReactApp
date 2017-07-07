@@ -2,6 +2,7 @@ django
 django-cors-headers
 djangorestframework
 django-shopify-auth
+django-assets
 Gunicorn
 whitenoise
 psycopg2
